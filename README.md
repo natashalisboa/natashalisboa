@@ -1,5 +1,6 @@
 ### Hi there, I'm [Natasha!](https://about.me/natashalisboa) 👋
 [![Blog Badge](https://img.shields.io/badge/Portfólio-natashalisboa.github.io-blue)](https://natashalisboa.github.io)
+
 ✨Welcome to my GitHub! I'm Natasha Lisboa (she/her), graduated in Leisure and Tourism and currently a student of Systems Analysis and Development, living and studying in São Paulo. I am passionate about traveling, exploring my city, learning about languages and everything about cultures. I am also very interested in technology, programming, audiovisual and entrepreneurship.
 
 #### 🚀&nbsp; Driven by challenging and innovative projects 
