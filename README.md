@@ -6,12 +6,9 @@
 ### 🚀&nbsp; Driven by challenging and innovative projects 
 I am building a solid foundation in both front-end and back-end technologies and languages. My learning process is based on developing projects and contributing to the open source community. You can find me on my studygram: <a href = "https://www.instagram.com/inknstudies/">@inknstudies</a> where I'm currently enjoying  <a href="https://www.instagram.com/explore/tags/100daysofcode/">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
-### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
+✔️ **I'm currently learning:** JavaScript
 
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website.
+👩‍💻 **I'm working on:** Building projects and my portfolio website.
 
 ### ⚡ Goals for 2020
 - Complete #100DaysOfCode challenge
