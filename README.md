@@ -16,7 +16,7 @@ I am building a solid foundation in both front-end and back-end technologies and
 - Become skilled in JavaScript
 
 #### 👾 Fun facts
-- I love horror movies & games, and blog about it. 
+- I love horror movies & games, and I blog about it. 
 - I'm a terrible gamer, but I still play and stream anyway.
 
 #### ☕ Get in touch
