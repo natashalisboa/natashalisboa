@@ -19,7 +19,7 @@ I am building a solid foundation in both front-end and back-end technologies and
 #### 👾 Fun facts
 - I love horror movies & games, and I blog about it. 
 - I'm a terrible gamer, but I still play and stream anyway.
-- Im learning how to draw.
+- I'm learning how to draw.
 
 #### ☕ Get in touch
 <a href = "https://www.linkedin.com/in/natasha-lisboa/">Linkedin</a> | <a href = "https://www.instagram.com/inknstudies/">Instagram</a> | <a href = "https://medium.com/@natashalisboa">Medium</a> | <a href = "https://pt.stackoverflow.com/users/204927/natasha-lisboa"> Stack Overflow</a> | <a href= "https://www.meetup.com/pt-BR/members/201824090/"> Meet-Up</a>| [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:natashaglisboa@gmail.com)](mailto:natashaglisboa@gmail.com)
