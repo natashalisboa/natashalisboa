@@ -1,7 +1,7 @@
 ### Hi there, I'm [Natasha!](https://about.me/natashalisboa) 👋
 [![Blog Badge](https://img.shields.io/badge/Portfólio-natashalisboa.github.io-blue)](https://natashalisboa.github.io)
 
-✨ Welcome to my GitHub! I'm Natasha Lisboa (she/her), graduated in Leisure and Tourism and currently a student of Systems Analysis and Development, living and studying in São Paulo. I am passionate about traveling, exploring my city, learning about languages and everything about cultures. I am also very interested in technology, programming, audiovisual and entrepreneurship.
+✨ Welcome to my GitHub! I'm Natasha Lisboa (she/her), graduated in [Leisure and Tourism](http://www5.each.usp.br/bacharelado-em-lazer-e-turismo/) and [Systems Analysis and Development](https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas), living and studying in São Paulo. I am passionate about traveling, exploring my city, learning about languages and everything about cultures. I am also very interested in technology, programming, audiovisual and entrepreneurship.
 
 #### 🚀&nbsp; Driven by challenging and innovative projects 
 I am building a solid foundation in both front-end and back-end technologies and languages. My learning process is based on developing projects and contributing to the open source community. You can find me on my studygram: <a href = "https://www.instagram.com/inknstudies/">@inknstudies</a> where I'm currently enjoying  <a href="https://www.instagram.com/explore/tags/100daysofcode/">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
