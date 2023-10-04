@@ -78,12 +78,18 @@ I am building a solid foundation in both front-end and back-end technologies and
 
  
 
-  
+### Connect with me:
 
- 
+[<img align="left" alt="natashalisboa.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="natashalisboa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="natashalisboa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="natashalisboa | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="natashalisboa | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
 
-#### ☕ Get in touch
+<br/>
 
- 
-
-<a href = "https://www.linkedin.com/in/natasha-lisboa/">Linkedin</a> | <a href = "https://medium.com/@natashalisboa">Medium</a> | <a href = "https://pt.stackoverflow.com/users/204927/natasha-lisboa"> Stack Overflow</a>
+[website]: http://natashalisboa.com/
+[medium]: https://medium.com/@natashalisboa/
+[linkedin]: https://www.linkedin.com/in/natashalisboa/
+[stackoverflow]: https://pt.stackoverflow.com/users/204927/natasha-lisboa
+[email]: mailto:contato@natashalisboa.com
