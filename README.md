@@ -1,3 +1,5 @@
+<img width="100%" src="assets\header.png">
+
 ### Hi there, I'm Natasha! 👋
 
  
