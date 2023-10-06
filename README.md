@@ -1,4 +1,4 @@
-<img width="100%" src="assets\header.png">
+<img width="100%" src="assets\github-header.png">
 
 ### Hi there, I'm Natasha! 👋
 ✨ Welcome to my GitHub! I'm Natasha Lisboa (she/her), graduated in [Leisure and Tourism (2018)](http://www5.each.usp.br/bacharelado-em-lazer-e-turismo/) and [Systems Analysis and Development (2021)](https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas), currently based in São Paulo. I am passionate about traveling, exploring my city, learning about languages and everything about cultures. I am also very interested in technology, programming, audiovisual and entrepreneurship.
