@@ -1,4 +1,4 @@
-<img width="100%" src="assets\github-header.png">
+<img width="100%" src="assets\github-header.png" alt="Banner com fundo branco, contendo um avatar de Natasha sorrindo e acenando, acompanhado do texto: 'Hi, I'm Natasha Lisboa. Developer and Content Creator'. Seguido de site: 'natashalisboa.com', e-mail: 'contato@natashalisboa.com', e uma pequena foto de perfil de Natasha. Natasha é uma mulher parda, com olhos pretos e cabelos longos, pretos e ondulados.">
 
 ### Hi there, I'm Natasha! 👋
 ✨ Welcome to my GitHub! I'm Natasha Lisboa (she/her), graduated in [Leisure and Tourism (2018)](http://www5.each.usp.br/bacharelado-em-lazer-e-turismo/) and [Systems Analysis and Development (2021)](https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas), currently based in São Paulo. I am passionate about traveling, exploring my city, learning about languages and everything about cultures. I am also very interested in technology, programming, audiovisual and entrepreneurship.
