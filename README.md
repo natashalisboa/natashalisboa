@@ -23,5 +23,8 @@ Driven by challenges and innovation, I am building a solid foundation in front-e
 Movida por desafios e inovação, estou construindo uma base sólida em tecnologias e linguagens de front-end e back-end, com mais de 4 anos de experiência profissional no desenvolvimento mobile. Minha jornada de aprendizado é orientada pelo desenvolvimento de projetos práticos e pela contribuição para a democratização do acesso à tecnologia.
   <p align="center">
    <br>
+    <p align="center">
+      <a href="https://www.instagram.com/sunlunasky/"><img width="20%" src="/assets/gatitas.png"></a>
+</p>
    </p>
 </details>
