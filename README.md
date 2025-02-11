@@ -1,11 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://natashalisboa.com">website</a> • 
-    <a href="https://medium.com/@na2kstudies">medium</a> • 
-    <a href="https://dev.to/na2kstudies">dev.to</a> •
-    <a href="https://na2kstudies.substack.com">substack</a> • 
-    <a href="https://bsky.app/profile/na2kstudies.bsky.social">bluesky</a> • 
-    <a href="https://twitter.com/na2kstudies">twitter</a> • 
+    <a href="https://natashalisboa.com">website</a> •  
     <a href="https://www.instagram.com/na2kstudies/">instagram</a> • 
     <a href="https://www.linkedin.com/in/natashalisboa">linkedin</a>
   </samp>
