@@ -2,9 +2,7 @@
   <samp>
     <a href="https://natashalisboa.com">website</a> •  
     <a href="https://www.instagram.com/na2kstudies/">instagram</a> • 
-    <a href="https://dev.to/na2kstudies">dev.to</a> •
     <a href="https://na2kstudies.medium.com/">medium</a> •
-    <a href="https://na2kstudies.substack.com/">substack</a> •
     <a href="https://www.linkedin.com/in/natashalisboa">linkedin</a>
     </samp>
 </p>
